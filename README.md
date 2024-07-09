@@ -1,4 +1,4 @@
-This repository is about building an Plant Leaves Disease detection using Image classifier CNN
+This repository is about building an Plant Leaves Disease detection web application using Image classifier CNN
 
 Kaggle Dataset Link: https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset
 
